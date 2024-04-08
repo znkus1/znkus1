@@ -20,8 +20,8 @@
 </div>
 
 ### 프로젝트
-1. YouTube 추천 알고리즘 리버스 엔지니어링 [[project-link]](https://github.com/znkus1/final-project)
-2. 항공 데이터 지연시간 예측 ML서비스 [[project-link]](https://github.com/znkus1/k8s_project)
+1. YouTube 추천 알고리즘 리버스 엔지니어링 [[Project-Link]](https://github.com/znkus1/final-project)
+2. 항공 데이터 지연시간 예측 ML서비스 [[Project-Link]](https://github.com/znkus1/k8s_project)
 <!--
 **znkus1/znkus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
