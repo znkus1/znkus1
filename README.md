@@ -1,9 +1,6 @@
-### 엄성진, 신입 데이터 엔지니어 👋
-
-- AI 부트캠프 이어드림스쿨 3기 Data Engineer 과정 수료 (2023.03 ~ 2023.12)
+### Data Engineering 👋
 
 ### 기술 스택
-
 언어:<br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
 데이터베이스:<br> 
